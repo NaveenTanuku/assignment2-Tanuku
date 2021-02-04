@@ -22,3 +22,15 @@ It's **rich** and **flavourful** layered dish, I liked it because my mom cooks w
 9. Add mint leaves and fried onions.
 10. keep the cooker lid and wait for 2 whistle.
 11. Take Birayani into hot pack.
+#### List of required items:
+* 2 bayleaf.
+* 2 green cardomoms.
+* 5 cloves.
+   - 1 inch cinnamon piece.
+    - 1 star anise.
+    - 1 3/4 teaspoon shahi jeera.
+* 2 strand mace.
+* 1/2 cup yogurt.
+* 1 teaspoon garam masala.
+* 2 slit green chilli pepper.
+* 3 tablespoons chopped mint leaves.<br>
