@@ -77,3 +77,8 @@ unlet i
 ```
 
 Vim Script Code Reference <https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script>
+
+![Birayani](images/birayani.jpg) <br> birayani in my city
+![Dum Birayani](images/birayani1.jpg) <br> birayani in other cities
+![Chicken birayani](images/birayani2.jpg) <br> i cook like this.
+
