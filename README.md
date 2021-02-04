@@ -34,3 +34,18 @@ It's **rich** and **flavourful** layered dish, I liked it because my mom cooks w
 * 1 teaspoon garam masala.
 * 2 slit green chilli pepper.
 * 3 tablespoons chopped mint leaves.<br>
+[MyProfile](AboutMe.md)
+
+---
+
+## Tourist Places
+
+
+India is a vibrant land of startling contrasts where both the traditional and modern worlds meet. Below are best places among those.
+
+ Location    | Number of Hours | Amount of Money
+--- | --- | ---
+ Leh Ladakh | 120 hours | 400$
+ Goa | 96 hours | 300$
+ Munnar | 120 hours | 350$
+ Bangalore | 96 hours | 300$
